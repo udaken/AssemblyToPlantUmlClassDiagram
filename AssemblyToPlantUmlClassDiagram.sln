@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30317.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyToPlantUmlClassDiagram", "AssemblyToPlantUmlClassDiagram\AssemblyToPlantUmlClassDiagram.csproj", "{C8368668-820A-45C7-82C0-DD8DC74A4497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8368668-820A-45C7-82C0-DD8DC74A4497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8368668-820A-45C7-82C0-DD8DC74A4497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8368668-820A-45C7-82C0-DD8DC74A4497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8368668-820A-45C7-82C0-DD8DC74A4497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B47A0A6-BB57-40C9-A19A-D83D51E8182D}
+	EndGlobalSection
+EndGlobal
